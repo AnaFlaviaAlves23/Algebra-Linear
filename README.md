@@ -1,1 +1,55 @@
-Guia de Estudos e Ementa: Álgebra LinearIntroduçãoEste documento apresenta a estrutura completa do programa de estudos da disciplina de Álgebra Linear, organizada para guiar o aprendizado ao longo dos tópicos fundamentais da matéria.O objetivo principal do curso é desenvolver de forma integrada os conceitos de matrizes, sistemas lineares e geometria analítica vetorial, avançando até as estruturas abstratas de espaços vetoriais e transformações lineares, com foco em suas representações e aplicações práticas.Ementa Geral e Conteúdo ProgramáticoO conteúdo da disciplina está estruturado em quatro grandes blocos temáticos interconectados:1. Matrizes, Sistemas Lineares e DeterminantesNesta primeira etapa, aborda-se a teoria teórica e operacional de matrizes, cálculo de determinantes, propriedades das matrizes inversas e métodos de resolução de sistemas de equações lineares. O foco é fornecer a base algébrica para manipulação de dados e equações simultâneas.2. Álgebra VetorialEstuda a fundamentação dos vetores tanto no plano ($\mathbb{R}^2$) quanto no espaço ($\mathbb{R}^3$). Aprofundam-se as operações algébricas e geométricas essenciais:Produto Escalar: Definição, propriedades e aplicações no cálculo de ângulos e projeções.Produto Vetorial: Aplicações na determinação de vetores ortogonais e cálculo de áreas.Produto Misto: Interpretação geométrica aplicada ao cálculo de volumes.3. Geometria Analítica: Retas e PlanosCom base nos conceitos vetoriais, explora-se a representação matemática de objetos no espaço:Estudo de equações vetoriais, paramétricas e simétricas da reta e do plano.Análise de posições relativas entre retas e planos.Métodos e fórmulas para cálculo de distâncias (ponto a reta, ponto a plano, retas reversas).4. Espaços Vetoriais e Transformações LinearesA última etapa introduz os conceitos abstratos da álgebra linear moderna:Definição e propriedades de espaços e subespaços vetoriais.Conceitos de independência linear, base e dimensão.Estudo das transformações lineares, suas matrizes associadas, núcleo e imagem.Metodologia e Dinâmica de AprendizadoA compreensão da disciplina fundamenta-se na articulação entre a teoria matemática e a resolução intensiva de problemas. O aprendizado é estruturado por meio de:Exposição Teórica: Aulas expositivas e dialogadas para fundamentação dos conceitos e teoremas.Fixação Prática: Resolução individual e em grupo de listas de exercícios para consolidação das técnicas algébricas.Atividades Práticas: Oficinas desenvolvidas em ambiente de laboratório para aplicação computacional ou visualização prática dos conceitos estudados.Estrutura de AvaliaçãoA assimilação do conhecimento é mensurada por meio de três avaliações teóricas parciais e pelo acompanhamento contínuo das atividades complementares:Primeira Avaliação: Focada em matrizes, sistemas lineares, determinantes, vetores no plano/espaço e produto escalar.Segunda Avaliação: Voltada ao estudo do produto vetorial e misto, equações de retas e planos, e cálculo de distâncias.Terceira Avaliação: Dedicada à teoria abstrata de espaços vetoriais e transformações lineares.Atividades Complementares: Composta pelas listas de exercícios contínuas e pelas oficinas práticas de laboratório.Avaliação Final: Exame global abrangendo a totalidade do conteúdo programático.
+# 📐 Guia de Estudos: Álgebra Linear
+
+Este repositório reúne o plano de ensino, o cronograma temático e o material bibliográfico do curso de **Álgebra Linear**. O objetivo é servir como um guia centralizado para o acompanhamento dos tópicos teóricos e práticos da disciplina.
+
+> **Objetivo Geral:** Desenvolver os conceitos fundamentais da álgebra linear e vetorial, conectando a resolução de sistemas de equações e a geometria analítica aos conceitos abstratos de espaços vetoriais e transformações lineares[cite: 1].
+
+---
+
+## 📚 Conteúdo Programático
+
+O curso é estruturado em quatro grandes blocos temáticos integrados:
+
+### 1. Matrizes, Sistemas Lineares e Determinantes
+* Operações com matrizes e propriedades da matriz inversa[cite: 1].
+* Determinantes e métodos de resolução de sistemas de equações lineares[cite: 1].
+* Aplicações algébricas fundamentais[cite: 1].
+
+### 2. Álgebra Vetorial
+* Vetores no plano ($\mathbb{R}^2$) e no espaço ($\mathbb{R}^3$)[cite: 1].
+* **Produto Escalar:** Definições, propriedades e cálculo de projeções[cite: 1].
+* **Produto Vetorial e Misto:** Aplicações geométricas no cálculo de áreas e volumes[cite: 1].
+
+### 3. Geometria Analítica
+* Estudo de retas e planos (equações vetoriais, paramétricas e simétricas)[cite: 1].
+* Posições relativas entre objetos geométricos no espaço[cite: 1].
+* Cálculo de distâncias (ponto a reta, ponto a plano e entre retas)[cite: 1].
+
+### 4. Espaços Vetoriais e Transformações Lineares
+* Definição e propriedades de espaços e subespaços vetoriais[cite: 1].
+* Independência linear, base e dimensão[cite: 1].
+* Transformações lineares, matrizes associadas, núcleo e imagem[cite: 1].
+
+---
+
+## 🛠️ Metodologia e Avaliação
+
+A dinâmica do curso combina aulas expositivo-dialogadas com aplicação prática constante[cite: 1]:
+
+* **Fixação Teórica:** Resolução de listas semanais de exercícios[cite: 1].
+* **Prática Computacional:** Oficinas desenvolvidas em ambiente de laboratório[cite: 1].
+* **Estrutura de Notas:** A pontuação total (100 pontos) é distribuída em **3 Provas Parciais (30 pts cada)** e **Atividades Práticas Complementares (10 pts totais)**[cite: 1].
+
+---
+
+## 📖 Bibliografia Recomendada
+
+### Bibliografia Básica
+* **BOLDRINI, José Luiz et al.** *Álgebra Linear*. 3. ed. rev. e ampl. São Paulo: Harbra, 1986[cite: 1].
+* **WINTERLE, Paulo.** *Vetores e Geometria Analítica*. 2. ed. São Paulo: Editora Pearson, 2014[cite: 1].
+* **CAMARGO, Ivan de; BOULOS, Paulo.** *Geometria Analítica: um tratamento vetorial*. 3. ed. rev. e ampl. São Paulo: Pearson Prentice Hall, 2005[cite: 1].
+
+### Bibliografia Complementar
+* **LANG, Serge.** *Álgebra Linear*. Rio de Janeiro: Ciência Moderna, 2003[cite: 1].
+* **KOLMAN, Bernard; HILL, D. R.** *Introdução à Álgebra Linear com Aplicações*. 8. ed. Rio de Janeiro: LTC, 2006[cite: 1].
+* **STEINBRUCH, Alfredo; WINTERLE, Paulo.** *Álgebra Linear*. 2. ed. São Paulo: Pearson Makron Books, 1987[cite: 1].
