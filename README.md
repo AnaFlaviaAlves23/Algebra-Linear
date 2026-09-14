@@ -32,24 +32,3 @@ O curso é estruturado em quatro grandes blocos temáticos integrados:
 
 ---
 
-## 🛠️ Metodologia e Avaliação
-
-A dinâmica do curso combina aulas expositivo-dialogadas com aplicação prática constante[cite: 1]:
-
-* **Fixação Teórica:** Resolução de listas semanais de exercícios[cite: 1].
-* **Prática Computacional:** Oficinas desenvolvidas em ambiente de laboratório[cite: 1].
-* **Estrutura de Notas:** A pontuação total (100 pontos) é distribuída em **3 Provas Parciais (30 pts cada)** e **Atividades Práticas Complementares (10 pts totais)**[cite: 1].
-
----
-
-## 📖 Bibliografia Recomendada
-
-### Bibliografia Básica
-* **BOLDRINI, José Luiz et al.** *Álgebra Linear*. 3. ed. rev. e ampl. São Paulo: Harbra, 1986[cite: 1].
-* **WINTERLE, Paulo.** *Vetores e Geometria Analítica*. 2. ed. São Paulo: Editora Pearson, 2014[cite: 1].
-* **CAMARGO, Ivan de; BOULOS, Paulo.** *Geometria Analítica: um tratamento vetorial*. 3. ed. rev. e ampl. São Paulo: Pearson Prentice Hall, 2005[cite: 1].
-
-### Bibliografia Complementar
-* **LANG, Serge.** *Álgebra Linear*. Rio de Janeiro: Ciência Moderna, 2003[cite: 1].
-* **KOLMAN, Bernard; HILL, D. R.** *Introdução à Álgebra Linear com Aplicações*. 8. ed. Rio de Janeiro: LTC, 2006[cite: 1].
-* **STEINBRUCH, Alfredo; WINTERLE, Paulo.** *Álgebra Linear*. 2. ed. São Paulo: Pearson Makron Books, 1987[cite: 1].
